@@ -1,0 +1,27 @@
+{
+  "name": "marvel-community",
+  "version": "1.0.0",
+  "description": "This is a website where you can find all the Marvel heroes and somes of their description.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ania-su/Marvel-community.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ania-su/Marvel-community/issues"
+  },
+  "homepage": "https://github.com/Ania-su/Marvel-community#readme"
+}
